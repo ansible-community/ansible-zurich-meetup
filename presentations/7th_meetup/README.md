@@ -1,4 +1,4 @@
 # Presentations
-* Simon Baerlocher & Pascal Mages – Microsoft Windows BitLocker Management with Ansible
-* Rene Moser – Ansible Inventory Plugins
-* Magnus Luebeck – Deploying Let's Encrypt SSL keys to nginx cluster
+* Microsoft Windows BitLocker Management with Ansible by Simon Baerlocher & Pascal Mages (ITIGO AG)
+* Ansible Inventory Plugins by Rene Moser (Puzzle ITC)
+* Deploying Let's Encrypt SSL keys to nginx cluster by Magnus Luebeck (KMG Group)
